@@ -253,3 +253,4 @@ fabric.properties
 /accounts/migrations/
 /menu/migrations/
 /vendor/migrations/
+/marketplace/migrations/
